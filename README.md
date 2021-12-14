@@ -1,5 +1,5 @@
 # teaching
-Teaching repository
+Teaching repository for git and GitHub
 
 # EFFORTLESS MASS SPECTROSCOPY FOR ELECTROCHEMISTS
 
