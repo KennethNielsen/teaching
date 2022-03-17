@@ -5,7 +5,7 @@ Teaching repository
 
 Would you prefer to concentrate on the science rather than the measurement technology?
 
-The Spectro Inlets EC-MS is the first and only turnkey solution for mass spectrometry analysis of electrochemical reactions.
+The Spectro Inlets EC-MS is the first and only turn-key solution for mass spectrometry analysis of electrochemical reactions.
 
 An entirely new section.
 
